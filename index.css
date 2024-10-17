@@ -45,6 +45,8 @@ span{
     color: #000;
     text-decoration: none;
 }
+
+
 .head2 a:hover{
     /* border-bottom: 2px solid #000; */
     transition: all 0.3s ease-in-out ;
@@ -106,6 +108,12 @@ span{
     border: 0;
     border-top-left-radius: 0;
     margin-bottom: 25px;
+}
+
+.left button:hover{
+    color: black;
+    background-color: blanchedalmond;
+    transition: background-color 1s ease;
 }
 
 .right{
